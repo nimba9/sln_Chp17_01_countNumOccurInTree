@@ -10,6 +10,7 @@ namespace nakovChp17_01_countNumOccurInTree
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("this is a test");
         }
     }
 }
